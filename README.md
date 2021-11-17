@@ -4,7 +4,7 @@ A Software Developer from Siberia.
 
 ## 🔭 Current projects
 
-- [StudyBox](http://studybox.rubius.com/)
+- [StudyBox](https://github.com/ChebanovDD/StudyBox-Info)
 - [NodEditor](https://github.com/ChebanovDD/NodEditor)
 - [VertexFlow](https://github.com/ChebanovDD/VertexFlow)
 
