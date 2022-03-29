@@ -7,6 +7,7 @@ A Software Developer from Siberia.
 - [StudyBox](https://github.com/ChebanovDD/StudyBox-Info)
 - [NodEditor](https://github.com/ChebanovDD/NodEditor)
 - [VertexFlow](https://github.com/ChebanovDD/VertexFlow)
+- [MatchSweets](https://github.com/ChebanovDD/MatchSweets)
 
 ## ⚡ Hobbies
 
