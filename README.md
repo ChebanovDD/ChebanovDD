@@ -4,11 +4,11 @@ A Software Developer from Siberia.
 
 ## 🔭 Current projects
 
-- [StudyBox](https://github.com/ChebanovDD/StudyBox-Info)
-- [NodEditor](https://github.com/ChebanovDD/NodEditor)
-- [VertexFlow](https://github.com/ChebanovDD/VertexFlow)
-- [Match3-SDK](https://github.com/ChebanovDD/Match3-SDK)
-- [UnityMvvmToolkit](https://github.com/ChebanovDD/UnityMvvmToolkit)
+- [StudyBox](https://github.com/ChebanovDD/StudyBox-Info) - no-code platform to create XR immersive training
+- [NodEditor](https://github.com/ChebanovDD/NodEditor) - library to create your own node-based tools
+- [VertexFlow](https://github.com/ChebanovDD/VertexFlow) - library to transfer BIM data directly into your app
+- [Match3-SDK](https://github.com/ChebanovDD/Match3-SDK) - SDK for creating Match 3 games
+- [UnityMvvmToolkit](https://github.com/ChebanovDD/UnityMvvmToolkit) - brings data-binding to your Unity project
 
 ## ⚡ Hobbies
 
