@@ -8,6 +8,7 @@ A Software Developer from Siberia.
 - [NodEditor](https://github.com/ChebanovDD/NodEditor)
 - [VertexFlow](https://github.com/ChebanovDD/VertexFlow)
 - [Match3-SDK](https://github.com/ChebanovDD/Match3-SDK)
+- [UnityMvvmToolkit](https://github.com/ChebanovDD/UnityMvvmToolkit)
 
 ## ⚡ Hobbies
 
