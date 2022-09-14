@@ -9,6 +9,7 @@ A Software Developer from Siberia.
 - [VertexFlow](https://github.com/ChebanovDD/VertexFlow) - library to transfer BIM data directly into your app
 - [Match3-SDK](https://github.com/ChebanovDD/Match3-SDK) - SDK for creating Match 3 games
 - [UnityMvvmToolkit](https://github.com/ChebanovDD/UnityMvvmToolkit) - brings data-binding to your Unity project
+- [UnityWidgetsToolkit](https://github.com/ChebanovDD/UnityWidgetsToolkit) - create UI using widgets similar to Flutter's approach
 
 ## ⚡ Hobbies
 
