@@ -23,7 +23,7 @@ A Software Developer from Siberia.
 
 #
 
-<p align="right">
+<p align="left">
 <a href="https://www.linkedin.com/in/dima-chebanov/">
         <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:chebanovdd@gmail.com">
