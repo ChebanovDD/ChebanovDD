@@ -10,10 +10,12 @@ A Software Developer from Siberia.
 - [Match3-SDK](https://github.com/ChebanovDD/Match3-SDK) - SDK for creating Match 3 games
 - [UnityMvvmToolkit](https://github.com/ChebanovDD/UnityMvvmToolkit) - brings data-binding to your Unity project
 - [UnityWidgetsToolkit](https://github.com/ChebanovDD/UnityWidgetsToolkit) - create UI using widgets similar to Flutter's approach
+- [UnityUxmlGenerator](https://github.com/LibraStack/UnityUxmlGenerator) - generates "UxmlFactory" and "UxmlTraits" source code for a custom VisualElement
 
 ### ⚡ Hobbies
 
 - 3D modeling
+- Mixed martial arts
 - Freestyle snowboarding
 
 ### 📝 Blogs
