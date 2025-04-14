@@ -23,7 +23,7 @@ A Software Developer from Siberia.
 <a href="https://dima-chebanov.hashnode.dev/">
         <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 
-<a href="https://habr.com/ru/users/Dmitry9192/posts/">
+<a href="https://habr.com/ru/users/Dmitry9192/articles/">
         <img src="https://github.com/ChebanovDD/ChebanovDD/blob/main/badges/habr-badge.svg" /></a>
 
 #
