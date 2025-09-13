@@ -12,12 +12,6 @@ A Software Developer from Siberia.
 - [NodEditor](https://github.com/ChebanovDD/NodEditor/tree/develop) - library to create your own node-based tools
 - [VertexFlow](https://github.com/ChebanovDD/VertexFlow) - library to transfer BIM data directly into your app
 
-### ⚡ Hobbies
-
-- 3D modeling
-- Mixed martial arts
-- Freestyle snowboarding
-
 ### 📝 Blogs
 
 <a href="https://dima-chebanov.hashnode.dev/">
