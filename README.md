@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Dima
 
-A Software Developer from Siberia.
+A Software Developer building tools, frameworks, and interactive applications.
 
 ### 🔭 Projects
 
